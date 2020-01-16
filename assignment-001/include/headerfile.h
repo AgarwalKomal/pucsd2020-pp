@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int AddNums(int, int);
-int SubNums(int, int);
-int MultNums(int, int);
-float DivNums(int, int);
+float AddNums(float, float);
+float SubNums(float, float);
+float MultNums(float, float);
+float DivNums(float, float);
